@@ -1,0 +1,59 @@
+﻿EJERCICIOS: CONDICIONALES SIMPLES Y CONDICIONALES MÚLTIPLES
+Ejercicio #1: APROBADO O REPROBADO
+Se pide leer tres notas de un alumno. Obtener su nota en un rango de 1 al 10 y enviar un mensaje donde diga si el alumno aprobó o reprobó el curso (tomar en cuenta que si obtiene 6 o más aprueba, de lo contrario no)
+Exprese el algoritmo usando Pseudocódigo y diagrama de flujos
+
+----------------------------------------------------------------------------------------------
+Ejercicio #2: ¿CUÁL ES EL NÚMERO MAS GRANDE?
+Se desea implementar un algoritmo para determinar cuál de dos valores proporcionados es el mayor.
+Representarlo con pseudocódigo y diagrama de flujo
+
+----------------------------------------------------------------------------------------------
+Ejercicio #3: POSITIVO O NEGATIVO
+Realice un algoritmo para determinar si un número es positivo o negativo.
+Represéntelo en pseudocódigo y diagrama de flujo
+
+----------------------------------------------------------------------------------------------
+Ejercicio #4: Almacenes “El harapiento distinguido”
+Almacenes “El harapiento distinguido” tiene una promoción: a todos los trajes que tienen un precio superior a $2500.00 se les aplicará un descuento de 15 %, a todos los demás se les aplicará sólo 8 %.
+Realice un algoritmo para determinar el precio final que debe pagar una persona por comprar un traje y de cuánto es el descuento que obtendrá.
+Represéntelo mediante el pseudocódigo, el diagrama de flujo
+
+----------------------------------------------------------------------------------------------
+Ejercicio #5: EL MAYOR DE LOS NÚMEROS
+Se requiere determinar cuál de tres cantidades proporcionadas es la mayor.
+Realizar su respectivo algoritmo y representarlo mediante un diagrama de flujo y pseudocódigo
+
+----------------------------------------------------------------------------------------------
+Ejercicio #6: BANQUETES “La langosta ahumada”
+“La langosta ahumada” es una empresa dedicada a ofrecer banquetes; sus tarifas son las siguientes: el costo de platillo por persona es de $95.00, pero si el número de personas es mayor a 200 pero menor o igual a 300, el costo es de $85.00. Para más de 300 personas el costo por platillo es de $75.00.
+Se requiere un algoritmo que ayude a determinar el presupuesto que se debe presentar a los clientes que deseen realizar un evento. Mediante pseudocódigo y diagrama de flujo represente su solución.
+
+----------------------------------------------------------------------------------------------
+Ejercicio #7: VIAJE ESCOLAR
+El director de una escuela está organizando un viaje de estudios, y requiere determinar cuánto debe cobrar a cada alumno y cuánto debe pagar a la compañía de viajes por el servicio. La forma de cobrar es la siguiente: si son 100 alumnos o más, el costo por cada alumno es de $65.00; de 50 a 99 alumnos, el costo es de $70.00, de 30 a 49, de $95.00, y si son menos de 30, el costo de la renta del autobús es de $4000.00, sin importar el número de alumnos.
+Realice un algoritmo que permita determinar el pago a la compañía de autobuses y lo que debe pagar cada alumno por el viaje (represente en pseudocódigo y diagrama de flujo)
+
+----------------------------------------------------------------------------------------------
+Ejercicio #8: COMPAÑIA DE AUTOBUSES
+Una compañía de viajes cuenta con tres tipos de autobuses (A, B y C), cada uno tiene un precio por kilómetro recorrido por persona, los costos respectivos son $2.0, $2.5 y $3.0.
+Se requiere determinar el costo total y por persona del viaje considerando que cuando éste se presupuesta debe haber un mínimo de 20 personas, de lo contrario el cobro se realiza con base en este número límite
+
+----------------------------------------------------------------------------------------------
+Ejercicio #9: HAMBURGUESAS “El náufrago satisfecho”
+“El náufrago satisfecho” ofrece hamburguesas sencillas, dobles y triples, las cuales tienen un costo de $20.00, $25.00 y $28.00 respectivamente. La empresa acepta tarjetas de crédito con un cargo de 5 % sobre la compra. Suponiendo que los clientes adquieren sólo un tipo de hamburguesa, realice un algoritmo para determinar cuánto debe pagar una persona por N hamburguesas.
+Represéntelo mediante diagrama de flujo y pseudocódigo
+
+----------------------------------------------------------------------------------------------
+Ejercicio #10: FABRICAS "EL COMETA"
+Fábricas “El cometa” produce artículos con claves (1, 2, 3, 4, 5 y 6). Se requiere un algoritmo para calcular los precios de venta, para esto hay que considerar lo siguiente:
+Costo de producción = materia prima + mano de obra + gastos de fabricación.
+Precio de venta = costo de producción + 45 % de costo de producción.
+El costo de la mano de obra se obtiene de la siguiente forma:
+para los productos con clave 3 o 4 se carga 75 % del costo de la materia prima; para los que tienen clave 1 y 5 se carga 80 %, y para los que tienen clave 2 o 6, 85 %.
+Para calcular el gasto de fabricación se considera lo siguiente:
+Si el artículo que se va a producir tiene claves 2 o 5, este gasto representa 30 % sobre el costo de la materia prima;
+Si las claves son 3 o 6, representa 35 %;
+Si las claves son 1 o 4, representa 28 %.
+La materia prima tiene el mismo costo para cualquier clave. 
+Represente mediante el diagrama de flujo y el pseudocódigo.
